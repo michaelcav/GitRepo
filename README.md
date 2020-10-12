@@ -1,27 +1,28 @@
 # GoStack - Módulo 05 
 
-![](https://hotmart.s3.amazonaws.com/product_contents/5bfd4a97-5e39-4c99-a871-8d3e969769cc/Course_Image01_580x320.jpg)
+<h1 align="center">
+    <img alt="GoStack" src="https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/bootcamp-header.png" width="200px" />
+</h1>
 
-![](https://img.shields.io/github/stars/newerton/gostack-modulo05.svg) ![](https://img.shields.io/github/forks/newerton/gostack-modulo05.svg) ![](https://img.shields.io/github/issues/newerton/gostack-modulo05.svg) ![](https://img.shields.io/github/license/newerton/gostack-modulo05.svg)
+<h3 align="center">
+  Desafio 5: Primeiro projeto com ReactJS
+</h3>
 
-# ReactJS
+<p align="center">“Para quem fica melhor a cada dia, ficar pronto é utopia”!</blockquote>
 
-| Aulas                           |        Done        |
-| ------------------------------- | :----------------: |
-| Criando projeto do zero         | :white_check_mark: |
-| ESLint, Prettier & EditorConfig | :white_check_mark: |
-| Roteamento no React             | :white_check_mark: |
-| Styled Components               | :white_check_mark: |
-| Estilos globais                 | :white_check_mark: |
-| Estilizando página Main         | :white_check_mark: |
-| Adicionando repositórios        | :white_check_mark: |
-| Listando repositórios           | :white_check_mark: |
-| Utilizando LocalStorage         | :white_check_mark: |
-| Navegação de rotas              | :white_check_mark: |
-| Carregando dados da API         | :white_check_mark: |
-| Definindo PropTypes             | :white_check_mark: |
-| Exibindo repositório            | :white_check_mark: |
-| Exibindo issues                 | :white_check_mark: |
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rocketseat/bootcamp-gostack-desafio-05?color=%2304D361">
+
+  <a href="https://rocketseat.com.br">
+    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%2304D361">
+  </a>
+
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
+
+  <a href="https://github.com/michaelcav/GitRepo/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/michaelcav/GitRepo?style=social">
+  </a>
+</p>
 
 
 
