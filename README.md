@@ -1,4 +1,4 @@
-# GoStack - Módulo 05 - Primeiro projeto com ReactJS
+# GoStack - Módulo 05 
 
 ![](https://hotmart.s3.amazonaws.com/product_contents/5bfd4a97-5e39-4c99-a871-8d3e969769cc/Course_Image01_580x320.jpg)
 
